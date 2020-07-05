@@ -1,0 +1,199 @@
+/*********************Common-to-all*********************/
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#b8b0b0;
+  border-width: 5px;
+  width: 2%;
+  position: relative;
+  left: 780px;
+  margin: 0;
+  }
+  hr:hover{
+    background-color:#ee8572;
+  }
+/*********************Top-container*********************/
+.top-container{
+  background-color: #fbf0f0;
+  position: relative;
+  margin-top: 0;
+  }
+  .top-container-sub1,.top-container-sub2,.top-container-mountain-img{
+    position:relative;
+    width: 600px;
+    left: 500px;
+  }
+  /*********************Top-container-sub1 css-style*********************/
+  .top-container-sub1{
+    position: relative;
+  }
+  .top-container-sub1-h1{
+    display: inline-block;
+    position: relative;
+    left: 140px;
+    margin-bottom: 0;
+    padding-top: 100px;
+    font-family:'Tangerine', cursive;
+    font-style:normal;
+    font-size: 2em;
+    font-weight: normal;
+    width: auto;
+    color: #7c7575;
+    }
+  .top-container-sub1-img{
+    position: absolute;
+    right: 20px;
+    bottom: 50px;
+    display: inline-block;
+  }
+  /*********************Top-container-sub2 css-style*********************/
+  .top-container-sub2-img{
+    display: inline-block;
+    position: relative;
+    top: 65px;
+  }
+  .top-container-sub2-p{
+    display: inline-block;
+    position: relative;
+    left: 75px;
+    margin-top: 0;
+    font-family: 'Abhaya Libre', serif;
+    color: #7c7575;
+    font-size: 1.25rem;
+    }
+/*********************middle-container css-style*********************/
+.middle-container{
+  background-color:#fbf0f0;
+  margin: 0;
+}
+/*********************middle-container-sub1 css-style*********************/
+.middle-container-sub1,.h2-div,.para-div,.skills-div,.skillslist{
+  position:relative;
+  width: 600px;
+  left: 500px;
+}
+.abrar-image{
+  padding-top:10px;
+  position: relative;
+  left: 250px;
+  border-width:10px;
+  border-radius:
+  40px/20px;
+  }
+  .h2{
+    position: relative;
+    left: 280px;
+    width:30px;
+    color: #7c7575;
+  }
+  .para-cloumn{
+  position: relative;
+  width: 100px;
+  left: 600px;
+}
+.para{
+  position: relative;
+  left: 120px;
+  text-align: center;
+  width: 350px;
+  font-family: 'Abhaya Libre', serif;
+  color: #7c7575;
+}
+.para1{
+  position: relative;
+  left: 120px;
+  text-align: center;
+  width:80px;
+  font-family: 'Abhaya Libre', serif;
+  color: #7c7575;
+}
+.h2-mySkills{
+  position: relative;
+  left: 245px;
+  width: 100px;
+  color: #7c7575;
+}
+.list1,.list1-name{
+  width:auto;
+  text-align:center;
+  font-family: 'Abhaya Libre', serif;
+  }
+  .list-name-content{
+    word-spacing: 150px;
+    margin: 0;
+      color: #7c7575;
+  }
+    .list-name-contents{
+      margin: 0;
+      color: #7c7575;
+      text-align:center;
+  }
+  .list-name-div{
+    position: relative;
+    left: 150px;
+    width:350px;
+  }
+  .list-name-div2{
+    position: relative;
+    left: 120px;
+    width:350px;
+  }
+  .list-name-div3{
+    position: relative;
+    left: 130px;
+    width:350px;
+  }
+  .Mysql{
+    position: relative;
+    right: 50px;
+  }
+  .C-pro{
+    position: relative;
+    left: 50px;
+  }
+  .html5{
+    position: relative;
+    right: 50px;
+  }
+  .css{
+    position: relative;
+    left: 50px;
+  }
+/*********************bottom-container css-style*********************/
+.bottem-container{
+  height:200px;
+  width: 100%;
+  background-color: #fbf0f0;
+  margin: 0;
+  text-align: center;
+}
+.bottem-container-h2{
+  position:relative;
+  width: 600px;
+  left: 500px;
+  color: #7c7575;
+}
+.bottem-container-p{
+  position:relative;
+  width: 600px;
+  left: 500px;
+  color: #7c7575;
+  margin: 0;
+}
+.bottem-container-p1{
+  position:relative;
+  width: 300px;
+  left: 150px;
+  margin: 0;
+  color: black;
+}
+.links{
+  position:relative;
+  width: 600px;
+  left: 500px;
+  margin: 0;
+  color: #7c7575;
+}
+body{
+  margin:0;
+}
